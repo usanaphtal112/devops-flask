@@ -1,3 +1,0 @@
-Hello World file in repository!!!
-
-This is all about devops, CI/CD and Automation
